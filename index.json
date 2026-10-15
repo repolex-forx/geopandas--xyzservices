@@ -1,0 +1,11 @@
+{
+  "org": "geopandas",
+  "repo": "xyzservices",
+  "versions": [
+    {
+      "commit": "a1ed2253941fb9cf6523fbf7e0008a86cb8c9a1e",
+      "tag": "",
+      "parsed_at": "2026-10-15T21:21:13.235819+00:00"
+    }
+  ]
+}
